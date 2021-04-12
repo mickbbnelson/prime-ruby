@@ -1,4 +1,5 @@
 # Add  code here!
+require "pry"
 
 def prime?(number)
    if number < 2
@@ -7,7 +8,7 @@ def prime?(number)
     true
     else
     false
-   end
+    end
 end
 
 
